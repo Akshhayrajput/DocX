@@ -254,8 +254,8 @@ The following [blog post](http://cathalscorner.blogspot.com/2010/06/cathal-why-d
  3. Programmatically manipulate an Image imbedded inside a document. http://cathalscorner.blogspot.com/2010/12/programmatically-manipulate-image.html
  4. Converting DocX into (.doc, .pdf, .html) http://cathalscorner.blogspot.com/2009/10/converting-docx-into-doc-pdf-html.html
 
-Do you have an interesting or informative example that you would like to share? 
-If you do, please email me.
+Do you have an interesting or an informative example that you would like to share? 
+If you do, please let me know by emailing me.
 
 ## License Information
 
